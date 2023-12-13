@@ -1,4 +1,4 @@
-# pipeline_poisson
+# Pipeline_poisson
 
 This repository contains a Python script for predicting sales using various regression models. The script uses historical sales data provided in an Excel file and implements a pipeline with multiple regressors, including Gradient Boosting, Random Forest, Multi-layer Perceptron (MLP), and Poisson Regression.
 
